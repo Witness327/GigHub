@@ -56,8 +56,6 @@ C:\Users\Andre\source\repos\GigHub\bin\Debug\netcoreapp3.1\runtimes\win\lib\nets
 C:\Users\Andre\source\repos\GigHub\obj\Debug\netcoreapp3.1\GigHub.csprojAssemblyReference.cache
 C:\Users\Andre\source\repos\GigHub\obj\Debug\netcoreapp3.1\staticwebassets\GigHub.StaticWebAssets.Manifest.cache
 C:\Users\Andre\source\repos\GigHub\obj\Debug\netcoreapp3.1\staticwebassets\GigHub.StaticWebAssets.xml
-C:\Users\Andre\source\repos\GigHub\obj\Debug\netcoreapp3.1\GigHub.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Andre\source\repos\GigHub\obj\Debug\netcoreapp3.1\GigHub.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Andre\source\repos\GigHub\obj\Debug\netcoreapp3.1\GigHub.RazorAssemblyInfo.cache
 C:\Users\Andre\source\repos\GigHub\obj\Debug\netcoreapp3.1\GigHub.RazorAssemblyInfo.cs
 C:\Users\Andre\source\repos\GigHub\obj\Debug\netcoreapp3.1\GigHub.AssemblyInfoInputs.cache
@@ -80,3 +78,5 @@ C:\Users\Andre\source\repos\GigHub\obj\Debug\netcoreapp3.1\GigHub.Views.pdb
 C:\Users\Andre\source\repos\GigHub\obj\Debug\netcoreapp3.1\GigHub.csproj.CopyComplete
 C:\Users\Andre\source\repos\GigHub\obj\Debug\netcoreapp3.1\GigHub.dll
 C:\Users\Andre\source\repos\GigHub\obj\Debug\netcoreapp3.1\GigHub.pdb
+C:\Users\Andre\source\repos\GigHub\obj\Debug\netcoreapp3.1\GigHub.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Andre\source\repos\GigHub\obj\Debug\netcoreapp3.1\GigHub.MvcApplicationPartsAssemblyInfo.cache
